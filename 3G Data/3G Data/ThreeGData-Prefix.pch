@@ -1,0 +1,21 @@
+//
+//  ThreeGData-Prefix.pch
+//  3G Data
+//
+//  Created by Dimitar Valentinov Petrov on 4/27/15.
+//  Copyright (c) 2015 Dimitar Valentinov Petrov. All rights reserved.
+//
+
+#ifndef _G_Data_ThreeGData_Prefix_pch
+#define _G_Data_ThreeGData_Prefix_pch
+
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "Constants.h"
+#import "AFNetworking.h"
+
+#import "ServerCommunicationUtil.h"
+
+#endif
